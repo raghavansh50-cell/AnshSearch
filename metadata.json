@@ -1,0 +1,6 @@
+{
+  "name": "AnshSearch",
+  "description": "AnshSearch represents a fully functional, elegant, high-performance web browser featuring multiple tabs, absolute private browsing, download controls, and a complete bookmarks manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
